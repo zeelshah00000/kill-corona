@@ -1,0 +1,29 @@
+body{
+	background: yellow;
+}
+h1{
+	font-size: 70px;
+	color:salmon;
+}
+
+h2{
+	font-size: 30px;
+	color: navy;
+}
+
+h2{
+	font-size: 40px;
+}
+
+.big{
+	font-size: 10px;
+	color: red;
+}
+
+.haa{
+	font-size: 80px;
+}
+
+h1 span{
+	color: yellow;
+}
